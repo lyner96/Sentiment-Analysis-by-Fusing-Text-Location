@@ -1,0 +1,8 @@
+numpy==1.18
+pandas==1.2.2
+tensorflow==2.2.2
+tensorflow-gpu==2.2.2
+tensorflow-addons==0.11.2
+scikit-learn==0.24.1
+spyder
+spyder-kernels
