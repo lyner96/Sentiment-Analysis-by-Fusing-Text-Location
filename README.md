@@ -2,9 +2,11 @@
 
 In this project, I study fusion of text and location features for sentiment classification task. CNN, BRNN, BiLSTM, Transformer are used in the experiment for binary and multiclass classification.
 
+Original dataset: [Geo-tagged Microblog Corpus](http://www.cs.cmu.edu/~ark/GeoText/)
+
 The data, saved model weight, and varible used in the code can be downloaded by click on the links.
 
-### Work produced
+### Research produced
 ```
 @article{lim2020sentiment,
   title={Sentiment Analysis by Fusing Text and Location Features of Geo-Tagged Tweets},
