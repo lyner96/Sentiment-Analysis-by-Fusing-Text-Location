@@ -6,7 +6,7 @@ Original dataset: full_text.txt in [Geo-tagged Microblog Corpus](http://www.cs.c
 
 The data, saved model weight, and variable used in the code can be downloaded by found [here](#).
 
-### Research paper
+### Publication
 ```
 @article{lim2020sentiment,
   title={Sentiment Analysis by Fusing Text and Location Features of Geo-Tagged Tweets},
