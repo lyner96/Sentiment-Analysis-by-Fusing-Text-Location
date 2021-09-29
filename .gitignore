@@ -2,3 +2,4 @@ data
 saved
 variable
 .ipynb_checkpoints
+.DS_Store
