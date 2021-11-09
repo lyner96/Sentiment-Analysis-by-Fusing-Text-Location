@@ -4,7 +4,7 @@ In this project, I study the fusion of text and location features for the sentim
 
 Original dataset: full_text.txt in [Geo-tagged Microblog Corpus](http://www.cs.cmu.edu/~ark/GeoText/)
 
-The data, saved model weight, and variable used in the code can be downloaded [here](]https://drive.google.com/drive/folders/19_U96nHctqsoOo0wZS2eK7Dr8DjzLV22?usp=sharing).
+The data, saved model weight, and variable used in the code can be downloaded [here](https://drive.google.com/drive/folders/19_U96nHctqsoOo0wZS2eK7Dr8DjzLV22?usp=sharing).
 
 ### Citation
 ```
